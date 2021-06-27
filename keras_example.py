@@ -159,6 +159,7 @@ model.fit(
 
 model.save('fraud_model.h5')
 
+##############
 
 fraud_model = keras.models.load_model('fraud_model.h5')
 
