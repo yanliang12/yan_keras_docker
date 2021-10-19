@@ -17,6 +17,4 @@ yanliang12/yan_keras:1.0.2
 
 ### run the example program
 
-```
 http://localhost:9971/notebooks/bidirectional_lstm_imdb.ipynb
-```
